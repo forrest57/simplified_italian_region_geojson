@@ -1748,7 +1748,7 @@
         ]
       },
       "properties": {
-        "reg_name": "Valle d'Aosta/Vallée d'Aoste",
+        "reg_name": "Valle d'Aosta",
         "reg_istat_code_num": 2,
         "reg_istat_code": "02"
       }
@@ -4300,7 +4300,7 @@
         ]
       },
       "properties": {
-        "reg_name": "Trentino-Alto Adige/Südtirol",
+        "reg_name": "Trentino-Alto Adige",
         "reg_istat_code_num": 4,
         "reg_istat_code": "04"
       }
